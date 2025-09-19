@@ -3,3 +3,5 @@ This is a Wireframe Renderer that allows the camera to move around and rotate in
 In order to run, run the Test.py file
 
 Pygame Library must be installed to run
+
+Use WASD keys to move the camera and the arrow keys to rotate it's direction of view within the 3D space 
